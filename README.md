@@ -14,5 +14,3 @@ population structure determination, and repertoire analysis.
 
 Try an interactive jupyter notebook of Immcantation on [mybinder.org](mybinder.org) here 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/immcantation/immcantation-lab/master)
-
-
