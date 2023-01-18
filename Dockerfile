@@ -1,4 +1,4 @@
-FROM immcantation/lab@sha256:186d59fce181826c5fb42de168e51a38a42bbe10be47d6f7fffd920ca3fe8398
+FROM immcantation/lab@sha256:047a211bfaa39affb2d434dd6d041595d7ec759d3a7e3b7980a39c564776c5ab
 LABEL maintainer="Susanna Marquez [susanna.marquez@yale.edu]" \
       description="Immcantation Lab - Analysis of adaptive immune receptor repertoires (AIRR)"
 CMD ["start-notebook.sh"]
